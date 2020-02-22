@@ -1,1 +1,5 @@
-# milestone-3
+# Milestone 3
+
+This project is a replication of the findings of the paper "Deliberate Disengagement: How Education Can Decrease Political Participation in Electoral Authoritarian Regimes".  This paper explores how education level impacts voter turnout in Zimbabwe.  Zimbabwe is an interesting case for this phenomenon.  While a broad range of political science research has ovserved a positive relationship between education and political participation, in Zimbabwe, the trend is inverted.  Upon further exploration of this trend, the authors of this paper posit that this negative trend is due to the authoritarian government in the nation. The more educated people are, the more they realize that the system is rigged and that it is not rational for them to invest their time in participating in the system.
+
+The link to my GitHub repo for this project is: https://github.com/asnorris/milestone-3
